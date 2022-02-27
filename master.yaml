@@ -1,11 +1,44 @@
 endpoints:
   api.sberbank.ru:
-    company: sberbank
+    entity: sberbank
     tags:
       - bank
       - api
   "31.13.148.90":
-    company: Antey
+    entity: Antey
     tags:
       - refinery
       - plc
+  "95.173.128.0/19":
+    entity: noc@gov.ru
+    tags:
+      - cidr
+      - noc
+  "185.183.172.0/22":
+    entity: noc@gov.ru
+    tags:
+      - cidr
+      - noc
+  "194.226.116.0/22":
+    entity: noc@gov.ru
+    tags:
+      - cidr
+      - noc
+  "194.226.127.0/24":
+    entity: noc@gov.ru
+    tags:
+      - cidr
+      - noc
+  "194.226.80.0/20":
+    entity: noc@gov.ru
+    tags:
+      - cidr
+      - noc
+  "http://95.173.128.118/auth":
+    entity: noc@gov.ru
+    tags:
+      - cidr
+      - noc
+      - auth
+
+
