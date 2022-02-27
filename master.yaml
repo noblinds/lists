@@ -1,0 +1,11 @@
+endpoints:
+  api.sberbank.ru:
+    company: sberbank
+    tags:
+      - bank
+      - api
+  "31.13.148.90":
+    company: Antey
+    tags:
+      - refinery
+      - plc
