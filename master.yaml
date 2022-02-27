@@ -1,44 +1,159 @@
 endpoints:
   api.sberbank.ru:
     entity: sberbank
+    country: ru
     tags:
       - bank
       - api
   "31.13.148.90":
     entity: Antey
+    country: ru
     tags:
       - refinery
       - plc
   "95.173.128.0/19":
     entity: noc@gov.ru
+    country: ru
     tags:
       - cidr
       - noc
   "185.183.172.0/22":
     entity: noc@gov.ru
+    country: ru
     tags:
       - cidr
       - noc
   "194.226.116.0/22":
     entity: noc@gov.ru
+    country: ru
     tags:
       - cidr
       - noc
   "194.226.127.0/24":
     entity: noc@gov.ru
+    country: ru
     tags:
       - cidr
       - noc
   "194.226.80.0/20":
     entity: noc@gov.ru
+    country: ru
     tags:
       - cidr
       - noc
   "http://95.173.128.118/auth":
     entity: noc@gov.ru
+    country: ru
     tags:
       - cidr
       - noc
       - auth
-  
+  "https://novychas.online":
+    country: by
+    tags:
+      - news
+  "http://nslowa.by":
+    country: by
+    tags:
+      - news
+  "https://nashaniva.by":
+    country: by
+    tags:
+      - news
+  "http://vitebsk.cc":
+    country: by
+    tags:
+      - news
+  "http://b-g.by":
+    country: by
+    tags:
+      - news
+  "https://www.sb.by":
+    country: by
+    tags:
+      - news
+  "http://www.sb.by":
+    country: by
+    tags:
+      - news
+  "http://www.belgazeta.by":
+    country: by
+    tags:
+      - news
+  "http://7dney.by":
+    country: by
+    tags:
+      - news
+  "http://lesgazeta.by":
+    country: by
+    tags:
+      - news
+  "http://babruysk.by":
+    country: by
+    tags:
+      - news
+  "http://www.bk-brest.by":
+    country: by
+    tags:
+      - news
+  "http://gp.by":
+    country: by
+    tags:
+      - news
+  "http://kurjer.info":
+    country: by
+    tags:
+      - news
+  "http://dneprovec.by":
+    country: by
+    tags:
+      - news
+  "http://medvestnik.by":
+    country: by
+    tags:
+      - news
+  "http://mk.by":
+    country: by
+    tags:
+      - news
+  "http://nb.by":
+    country: by
+    tags:
+      - news
+  "http://smp.by":
+    country: by
+    tags:
+      - news
+  "http://vminsk.by":
+    country: by
+    tags:
+      - news
+  "http://vkurier.by":
+    country: by
+    tags:
+      - news
+  "http://xpress.by":
+    country: by
+    tags:
+      - news
+  "http://www.nv-online.info":
+    country: by
+    tags:
+      - news
+  "http://www.gs.by":
+    country: by
+    tags:
+      - news
+  "http://www.intex-press.by":
+    country: by
+    tags:
+      - news
+  "https://zhodinonews.by":
+    country: by
+    tags:
+      - news
+  "http://www.vb.by":
+    country: by
+    tags:
+      - news
 
